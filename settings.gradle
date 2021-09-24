@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "componente_switch_com_kotlin"
