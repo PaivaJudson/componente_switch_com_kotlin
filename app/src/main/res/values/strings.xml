@@ -2,6 +2,6 @@
     <string name="app_name">componente_switch_com_kotlin</string>
     <string name="str_status">desligado</string>
     <string name="str_sw">Executar</string>
-    <string name="switch">Switch</string>
+    <string name="switch__">Switch</string>
     <string name="switch_">switch</string>
 </resources>
